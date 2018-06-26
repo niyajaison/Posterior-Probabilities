@@ -1,0 +1,2 @@
+# Posterior-Probabilities
+The compute_a_posteriori implements the below task: a. Determine the posterior probability of different hypotheses, given priors for these hypotheses, and given a sequence of observations. b. Determine the probability that the next observation will be of a specific type, priors for different hypotheses, and given a sequence of observations.  The result is then written into a txt file.
